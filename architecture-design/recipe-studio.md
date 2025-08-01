@@ -62,12 +62,15 @@
 - **Resend**: For transactional emails (e.g., password resets, welcome emails).
 
 ## Architecture Design
-![Architecture Design](./architecture-design-recipe.png "a title")
+![Architecture Design](./architecture-design-recipe.png "Architecture Design")
+
+## Data Flow Diagram
+![DFD design Design](./dfd_l2.png "DFD level 2")
 
 ## Database Design
 The ERD below represents the database schema for RecipeStudio, designed in PostgreSQL with Supabase.
 
-![Architecture Design](./ERD-recipe.png "a title")
+![ERD Design](./ERD-recipe.png "ERD")
 
 <xaiArtifact artifact_id="99d81231-d134-45cd-b763-bc95f8ea15a6" artifact_version_id="f4b711f5-6890-47ae-b590-7ad49c0b0762" title="recipestudio_erd.mmd" contentType="text/mermaid">
 
